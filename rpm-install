@@ -1,0 +1,3 @@
+#sudo alien star-1.6-4.fc34.x86_64.rpm
+#sudo chmod -R a+rwX star_1.6-5_amd64.deb && sudo chown daniell:daniell star_1.6-5_amd64.deb #have to know username and the result .deb file
+#sudo dpkg -i star_1.6-5_amd64.deb
